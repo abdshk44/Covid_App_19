@@ -1,4 +1,4 @@
-# ovid_app
+# covid_app
 
 A new Flutter project.
 
